@@ -1,5 +1,3 @@
-### Statistics page ✨
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RainBowAurora&show_icons=true&theme=dracula) 
 
 <!--
